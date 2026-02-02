@@ -1,2 +1,5 @@
-# Logistic-Regression-Interactive-Visualizer
-Interactive Streamlit app for visualizing Logistic Regression decision boundaries with real-time hyperparameter tuning and multiple dataset support
+streamlit>=1.28.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
